@@ -44,6 +44,8 @@ Then create tool using Tool class.  Note that we can create custom tool using @t
 First, we'll initialize llm with the selected pretrained model, then create tools, create prompt template, create agent (using create_react_agent with llm, tools, and prompt template as parameters), then create agent executor
 
 For testing, I'll use langchain-tests (for unit and integration tests), LLM-as-Judge, and LangSmith
+### How to properly test Similarity Search on Vector DB?
+### How to test Recommendation system?
 
 I'll add examples as I move forward with building the custom application 
 
