@@ -1,4 +1,4 @@
-# Testing RAG and MLModels
+# Testing RAG, MLModels, LLM Applications, and Multimodel Gen AI
 I created this repository as a general knowledge base for anyone who needs to learn how to test AI Model.
 Contents of this repo came from the knowledge that I acquired for RAG and Model validation as part of my job routine.
 
@@ -46,6 +46,7 @@ First, we'll initialize llm with the selected pretrained model, then create tool
 For testing, I'll use langchain-tests (for unit and integration tests), LLM-as-Judge, and LangSmith
 ### How to properly test Similarity Search on Vector DB?
 ### How to test Recommendation system?
+### How to test Multimodel Gen AI?
 
 # LangChain Context Retrieval
 
